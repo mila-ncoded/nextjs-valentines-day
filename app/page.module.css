@@ -118,4 +118,8 @@
   .image {
     height: 300px;
   }
+
+  .yes-button {
+    left: 30%;
+  }
 }
