@@ -107,6 +107,7 @@
   transform: translateX(-50%);
   width: 1000px;
   height: 600px;
+  max-width: 100%;
 }
 
 .yes-button:hover {
