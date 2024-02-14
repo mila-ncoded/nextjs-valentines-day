@@ -113,3 +113,9 @@
 .yes-button:hover {
   box-shadow: 0 0 50px 15px #ffff;
 }
+
+@media only screen and (max-width: 1000px) {
+  .image {
+    height: 300px;
+  }
+}
