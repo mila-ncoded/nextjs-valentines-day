@@ -16,7 +16,7 @@ export default function NoButton() {
 
   return (
     <div className={styles.container}>
-      <button onMouseOver={mouseOver} style={noStyle} className={styles['no-button']}>
+      <button onMouseOver={mouseOver} onClick={mouseOver} style={noStyle} className={styles['no-button']}>
         No
       </button>
     </div>
