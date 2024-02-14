@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&family=Montserrat:wght@400;700&display=swap');
+
+html {
+  font-family: 'Quicksand', sans-serif;
+}
+
+body {
+  background-color: #ffe5ec;
+}
